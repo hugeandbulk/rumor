@@ -13,3 +13,11 @@ In the social sciences, a rumor involves a form of a statement whose veracity is
 03):
 
 Rumors are also often discussed with regard to misinformation and disinformation (the former often seen as simply false and the latter seen as deliberately false, though usually from a government source given to the media or a foreign government).
+
+04):
+
+What is the difference between rumor and gossip?
+
+Rumors are unsubstantiated information and stories. Rumors can be true or false; their main characteristic is doubt. For example, “I have heard that our company is going to layoff 500 employees”. Gossip is evaluative social chat. For example, persons A and B are having an affair. Rumors and gossip differ in their primary function. Rumors are used to warn or inform the group about uncertain events or phenomena (rumored layoffs warn fellow employees—“better prepare for the job losses”). Gossip enforces social mores (it’s bad to have an extra-marital affair), is often slanderous, and/or amuses and fascinates the discussants.
+
+A statement can be both rumor and gossip, as when the information is both doubtful and slanderous (e.g. the false rumor that “Hillary is running a secret child pornography business.”) Rumor and gossip are sometimes impossible to distinguish from one another, but they do possess some distinct connotations. For example, the objection “That’s a rumor!” often signifies that a statement is false or doubtful, while “That’s gossip!” can indicate slanderous and titillating information shared in idle conversation.
