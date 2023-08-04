@@ -6,3 +6,7 @@ verb
 verb: rumor
 
 _to be reported as a rumour and possible but may not be true_. 
+
+Actions:
+- `rumor ();`
+- `confute ();`
