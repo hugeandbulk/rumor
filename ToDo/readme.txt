@@ -2,4 +2,4 @@
 ————-
 rumor vs. grammar, language (English)
 
-https://www.webmd.com/balance/take-stock-health-habits
+Gossip is when you take rumors -- those unconfirmed pieces of information -- and pass them along, spreading what may be “fake news.” — https://www.webmd.com/balance/take-stock-health-habits
