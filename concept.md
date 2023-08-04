@@ -29,3 +29,11 @@ What is the best way to deal with rumors or misinformation about yourself in the
 Assuming that a harmful rumor is indeed false, it is generally better to speak up, especially if you feel the rumor has potential to cause you or others harm. When heard by people who are inclined to dis-believe the rumor, a refutation offers them the opportunity to do so. Conversely, if those inclined to believe the rumor do not hear a refutation, they will interpret the refutation’s absence as proof of the rumor’s truth (e.g., “They didn’t refute it, it must be that they couldn’t refute it.”). [We say this cautiously, recognizing that a refutation may be discounted as self-serving, and that a refutation runs the risk of repeating and drawing attention to the rumor.]
 
 A refutation is most effective when given by a third party considered credible by the targeted audience. Thus, although it may be challenging to accomplish, the recommendation is to enlist the help of persons seen as credible in the eyes of the audience.
+
+06):
+
+Why do people spread rumors?
+
+The spread of rumors can be thought of as social sensemaking, where a collective tries to understand and interpret a situation together (e.g., “I heard that our department is being downsized, did you hear anything?”). Anxiety has a role to play here: Uncertainty about a cherished thing (our job) creates anxiety which heightens the likelihood of sharing the rumor. Second, sharing rumors is a way of managing relationships. For example, people may share rumors to create or enhance relationships with the hearer or with other people in their group (e.g., spreading derogatory rumors about political party A will likely endear you to political party B).
+
+Managing relationships may also take the form of spreading rumors to protect others in your relational network from potential dangers (e.g., sharing rumors with kin about impending ethnic cleansing or natural disaster is intended to preserve kinship lives, and thus relationships). Finally, there could be conscious malicious intent in spreading a rumor – for example, to gain an upper hand in negotiations or to hurt a rival group or entity. However, for the rumor to take hold, it typically requires some fertile ground involving uncertainty, anxiety, and/or strong existing interest in the topic among a collective.
