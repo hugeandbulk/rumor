@@ -23,3 +23,5 @@ _A confutation is the act of refuting someone's point forcefully. Accused crimin
 What is the difference between refute and confute?
 
 _To refute a statement is to demonstrate its falsity by argument or countervailing proof; confute is substantially the same in meaning, tho differing in usage. To our mind this astonishment does not confute the idea that this act of obedience was prompted by faith_.
+
+Copyright © 2023, Prabhat Kumar, All rights reserved.
