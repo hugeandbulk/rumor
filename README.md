@@ -12,6 +12,7 @@ _Rumours are stories or pieces of stories that might be true or false and that h
 Actions:
 - `rumor ();`
 - `confute ();`
+- `refute ();`
 - `erroneous ();`
 
 
