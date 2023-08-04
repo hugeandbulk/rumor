@@ -9,3 +9,7 @@ A rumor (American English), or rumour (British English; see spelling differences
 02):
 
 In the social sciences, a rumor involves a form of a statement whose veracity is not quickly or ever confirmed. In addition, some scholars have identified rumor as a subset of propaganda. Sociology, psychology, and communication studies have widely varying definitions of rumor.
+
+03):
+
+Rumors are also often discussed with regard to misinformation and disinformation (the former often seen as simply false and the latter seen as deliberately false, though usually from a government source given to the media or a foreign government).
