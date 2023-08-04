@@ -14,13 +14,13 @@ Actions:
 - `confute ();`
 - `refute ();`
 - `erroneous ();`
+- `repute ();`
 
-
-What is the meaning of Confutate?
+_What is the meaning of Confutate_?
 
 _A confutation is the act of refuting someone's point forcefully. Accused criminals must offer confutation if they hope to be found innocent. If you know the verb confute — which means to overwhelm through an argument — this noun will be a no-brainer: it refers to the act of confuting, or a statement that confutes_.
 
-What is the difference between refute and confute?
+_What is the difference between refute and confute_?
 
 _To refute a statement is to demonstrate its falsity by argument or countervailing proof; confute is substantially the same in meaning, tho differing in usage. To our mind this astonishment does not confute the idea that this act of obedience was prompted by faith_.
 
