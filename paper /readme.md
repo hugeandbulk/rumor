@@ -13,3 +13,5 @@ _**"a plural crowd"**_.
 _**"on 3rd & 4th, August"**_.
 
 **rumorology** — _“the study or practice of spreading rumors.”_
+
+_**"is rumor has network? "**_.
