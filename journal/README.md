@@ -15,10 +15,11 @@ Erdős and Rényi (1960) showed that for many monotone-increasing properties of 
 
 The simplest type of random graph is what is called the Erdös-Renyí Random Graph. This is what people typically mean when they say “Random Graph” (though, you will see later, that there are many different ways to be random). These come in two flavors: G(n,m) model, in which n nodes are randomly connected by m edges.
 
-3. How do you randomize a graph?
-- https://www.geeksforgeeks.org/how-to-create-a-random-graph-using-random-edge-generation-in-java/
+3. How do you randomize a graph? — https://www.geeksforgeeks.org/how-to-create-a-random-graph-using-random-edge-generation-in-java/
 
-4. 
+4. What are the uses of random graphs? — https://academic.oup.com/book/40058/chapter-abstract/340606789?redirectedFrom=fulltext
+   World Wide Web
+6. 
 
 
 
