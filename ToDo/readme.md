@@ -18,7 +18,9 @@ A random graph is a graph in which properties such as the number of graph vertic
 
 A random network consists of N nodes where each node pair is connect- ed with probability p. To construct a random network we follow these steps: 1) Start with N isolated nodes. 2) Select a node pair and generate a random number between 0 and 1.
 
-6. 
+6. What is probability in random graph?
+
+a probability value p ∈ [0,1], the G(n, p) random graph is an undirected. graph on n vertices such that each of the (n. 2. ) edges is present in the graph independently with probability p. When p = 0, G(n,0) is an empty graph on n vertices, and when p = 1, G(n,1) is the fully connected graph on n vertices (denoted Kn).
 
 
 Rumours are stories or pieces of stories that might be true or false and that have the characteristic of quickly spreading from a person to another. They are not systematically negative but they can become very harmful when they are based on stereotypes, i.e. on unchecked and prefixed ideas about what someone or something is like. Stereotypes feed into prejudice, which is an unfair and unreasonable opinion or feeling formed through a pre-judgment without enough thought or knowledge. At the level of today diverse societies, the spreading of stereotypes and prejudice through rumours can actually impact the way in which we relate to each other, the way in which we interact - or renounce to interact - with people of diverse origin and backgrounds.
