@@ -19,7 +19,10 @@ The simplest type of random graph is what is called the Erdös-Renyí Random Gra
 
 4. What are the uses of random graphs? — https://academic.oup.com/book/40058/chapter-abstract/340606789?redirectedFrom=fulltext
    World Wide Web
-6. 
+5. Applications of random graphs — https://doi.org/10.1093/oso/9780198709893.003.0011
+
+Abstract
+This chapter reviews graph generation techniques in the context of applications. The first case study is power grids, where proposed strategies to prevent blackouts have been tested on tailored random graphs. The second case study is in social networks. Applications of random graphs to social networks are extremely wide ranging – the particular aspect looked at here is modelling the spread of disease on a social network – and how a particular construction based on projecting from a bipartite graph successfully captures some of the clustering observed in real social networks. The third case study is on null models of food webs, discussing the specific constraints relevant to this application, and the topological features which may contribute to the stability of an ecosystem. The final case study is taken from molecular biology, discussing the importance of unbiased graph sampling when considering if motifs are over-represented in a protein–protein interaction network.
 
 
 
