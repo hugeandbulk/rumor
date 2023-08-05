@@ -14,7 +14,7 @@ Actions:
 - `confute ();`
 - `refute ();`
 - `erroneous ();`
-- `repute ();`
+- `**repute ();**`
 
 _What is the meaning of Confutate_?
 
