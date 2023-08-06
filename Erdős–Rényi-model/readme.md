@@ -61,3 +61,7 @@ There are two particular categories of circuits with specific characteristics: E
 What is a random graph called?
 
 The simplest type of random graph is what is called the Erdös-Renyí Random Graph. This is what people typically mean when they say “Random Graph” (though, you will see later, that there are many different ways to be random). These come in two flavors: G(n,m) model, in which n nodes are randomly connected by m edges.
+
+What are 2 connected graphs?
+
+A graph is connected if for any two vertices x, y ∈ V (G), there is a path whose endpoints are x and y. A connected graph G is called 2-connected, if for every vertex x ∈ V (G), G − x is connected. A separating set or vertex cut of a connected graph G is a set S ⊂ V (G) such that G − S is disconnected.
