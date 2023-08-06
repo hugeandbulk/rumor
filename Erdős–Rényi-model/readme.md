@@ -49,3 +49,7 @@ The clustering coefficient represents the abundance of connected triangles in a 
 What is a good erdos number?
 
 As of 2022, all Fields Medalists have a finite Erdős number, with values that range between 2 and 6, and a median of 3. In contrast, the median Erdős number across all mathematicians (with a finite Erdős number) is 5, with an extreme value of 13.
+
+What is the difference between path and circuit in discrete mathematics?
+
+Circuit is a closed trail. These can have repeated vertices only. It is a trail in which neither vertices nor edges are repeated i.e. if we traverse a graph such that we do not repeat a vertex and nor we repeat an edge. As path is also a trail, thus it is also an open walk.
