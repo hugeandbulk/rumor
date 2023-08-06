@@ -81,3 +81,15 @@ The proof by Erdős actually proves something significantly stronger, namely tha
 What are the different types of density plots?
 
 There are a few different types of density plots: 1-D density plot, 2-D density plot, and contour plot. Let's explore each one. 1-D Density Plot: A 1-D density plot, known as a Kernel Density Estimate (KDE) plot, is a smoothed histogram version.
+
+Who invented the graph theory?
+
+The father of graph theory was the great Swiss mathematician Leonhard Euler, whose famous 1736 paper, "The Seven Bridges of Konigsberg," was the first treatise on the subject.
+
+What is a real life example of graph theory?
+
+For example, graph theory can be used to map out social networks, such as Facebook or Twitter, and analyze how people are connected to each other. Graph theory can also be used to map out networks of computers and analyze how they are connected to each other.
+
+What is the first theorem of graph theory?
+
+The following theorem is often referred to as the First Theorem of Graph The- ory. Theorem 1.1. In a graph G, the sum of the degrees of the vertices is equal to twice the number of edges.
