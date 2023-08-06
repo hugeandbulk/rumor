@@ -37,3 +37,8 @@ In computer science, graph models are often used in database management systems 
 Which clustering algorithm is based on graph theory?
 
 HCS clustering algorithm finds all the subgraphs with n vertices such that the minimum cut of those subgraphs contain more than n/2 edges, and identifies them as clusters. Such a subgraph is called a Highly Connected Subgraph (HCS). Single vertices are not considered clusters and are grouped into a singletons set S.
+
+What is meant by cluster coefficient?
+
+For example, none of Ava's friends are connected to each other. The clustering coefficient measures how connected a vertex's neighbors are to one another. More specifically, it is calculated as: (the number of edges connecting a vertex's neighbors)/(the total number of possible edges between the vertex's neighbors).
+
