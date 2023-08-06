@@ -74,3 +74,6 @@ What is the minimum spanning tree?
 
 That is, it is a spanning tree whose sum of edge weights is as small as possible. More generally, any edge-weighted undirected graph (not necessarily connected) has a minimum spanning forest, which is a union of the minimum spanning trees for its connected components.
 
+What is proofs by Erdős?
+
+The proof by Erdős actually proves something significantly stronger, namely that if P is the set of all primes, then the following series diverges: As a reminder, a series is called convergent if its sequence of partial sums has a limit L that is a real number.
