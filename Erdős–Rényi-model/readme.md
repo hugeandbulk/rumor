@@ -25,3 +25,7 @@ Graph density represents the ratio between the edges present in a graph and the 
 What are the 5 basic terms used in graph theory?
 
 The concept of graphs in graph theory stands up on some basic terms such as point, line, vertex, edge, degree of vertices, properties of graphs, etc.
+
+What are the applications of graph theory?
+
+Modern Applications of Graph Theory discusses many cutting-edge applications of graph theory, such as traffic networks, navigable networks and optimal routing for emergency response, and graph-theoretic approaches to molecular epidemiology.
