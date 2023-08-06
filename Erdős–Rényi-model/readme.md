@@ -45,3 +45,7 @@ For example, none of Ava's friends are connected to each other. The clustering c
 What does clustering coefficient tell us?
 
 The clustering coefficient represents the abundance of connected triangles in a network (Watts and Strogatz, 1998).
+
+What is a good erdos number?
+
+As of 2022, all Fields Medalists have a finite Erdős number, with values that range between 2 and 6, and a median of 3. In contrast, the median Erdős number across all mathematicians (with a finite Erdős number) is 5, with an extreme value of 13.
