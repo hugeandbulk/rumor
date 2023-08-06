@@ -65,3 +65,7 @@ The simplest type of random graph is what is called the Erdös-Renyí Random Gra
 What are 2 connected graphs?
 
 A graph is connected if for any two vertices x, y ∈ V (G), there is a path whose endpoints are x and y. A connected graph G is called 2-connected, if for every vertex x ∈ V (G), G − x is connected. A separating set or vertex cut of a connected graph G is a set S ⊂ V (G) such that G − S is disconnected.
+
+What is the formula for random generator?
+
+You can also generate a random number between two numbers. The formula is =RAND()*(b−a)+a. If you want a number between 20 and 60 — where a is the lower bound value and b is the upper bound value — the formula would be =RAND()*(60−20)+20.
