@@ -77,3 +77,7 @@ That is, it is a spanning tree whose sum of edge weights is as small as possible
 What is proofs by Erdős?
 
 The proof by Erdős actually proves something significantly stronger, namely that if P is the set of all primes, then the following series diverges: As a reminder, a series is called convergent if its sequence of partial sums has a limit L that is a real number.
+
+What are the different types of density plots?
+
+There are a few different types of density plots: 1-D density plot, 2-D density plot, and contour plot. Let's explore each one. 1-D Density Plot: A 1-D density plot, known as a Kernel Density Estimate (KDE) plot, is a smoothed histogram version.
