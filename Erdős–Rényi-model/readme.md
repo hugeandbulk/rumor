@@ -33,3 +33,7 @@ Modern Applications of Graph Theory discusses many cutting-edge applications of 
 What is graph model used for?
 
 In computer science, graph models are often used in database management systems and data analysis tools. Graph databases are designed to store and manage large amounts of data using graph models, meaning that querying and analysing relationships between entities can be done efficiently.
+
+Which clustering algorithm is based on graph theory?
+
+HCS clustering algorithm finds all the subgraphs with n vertices such that the minimum cut of those subgraphs contain more than n/2 edges, and identifies them as clusters. Such a subgraph is called a Highly Connected Subgraph (HCS). Single vertices are not considered clusters and are grouped into a singletons set S.
