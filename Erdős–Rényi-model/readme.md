@@ -69,3 +69,8 @@ A graph is connected if for any two vertices x, y ∈ V (G), there is a path who
 What is the formula for random generator?
 
 You can also generate a random number between two numbers. The formula is =RAND()*(b−a)+a. If you want a number between 20 and 60 — where a is the lower bound value and b is the upper bound value — the formula would be =RAND()*(60−20)+20.
+
+What is the minimum spanning tree?
+
+That is, it is a spanning tree whose sum of edge weights is as small as possible. More generally, any edge-weighted undirected graph (not necessarily connected) has a minimum spanning forest, which is a union of the minimum spanning trees for its connected components.
+
