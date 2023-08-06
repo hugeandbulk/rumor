@@ -58,3 +58,6 @@ What are the different types of circuits in graph theory?
 
 There are two particular categories of circuits with specific characteristics: Eulerian: this circuit consists of a closed path that visits every edge of a graph exactly once. Hamiltonian: this circuit is a closed path that visits every node of a graph exactly once.
 
+What is a random graph called?
+
+The simplest type of random graph is what is called the Erdös-Renyí Random Graph. This is what people typically mean when they say “Random Graph” (though, you will see later, that there are many different ways to be random). These come in two flavors: G(n,m) model, in which n nodes are randomly connected by m edges.
