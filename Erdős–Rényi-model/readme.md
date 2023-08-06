@@ -53,3 +53,8 @@ As of 2022, all Fields Medalists have a finite Erdős number, with values that r
 What is the difference between path and circuit in discrete mathematics?
 
 Circuit is a closed trail. These can have repeated vertices only. It is a trail in which neither vertices nor edges are repeated i.e. if we traverse a graph such that we do not repeat a vertex and nor we repeat an edge. As path is also a trail, thus it is also an open walk.
+
+What are the different types of circuits in graph theory?
+
+There are two particular categories of circuits with specific characteristics: Eulerian: this circuit consists of a closed path that visits every edge of a graph exactly once. Hamiltonian: this circuit is a closed path that visits every node of a graph exactly once.
+
