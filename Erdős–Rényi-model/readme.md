@@ -42,3 +42,6 @@ What is meant by cluster coefficient?
 
 For example, none of Ava's friends are connected to each other. The clustering coefficient measures how connected a vertex's neighbors are to one another. More specifically, it is calculated as: (the number of edges connecting a vertex's neighbors)/(the total number of possible edges between the vertex's neighbors).
 
+What does clustering coefficient tell us?
+
+The clustering coefficient represents the abundance of connected triangles in a network (Watts and Strogatz, 1998).
