@@ -29,3 +29,7 @@ The concept of graphs in graph theory stands up on some basic terms such as poin
 What are the applications of graph theory?
 
 Modern Applications of Graph Theory discusses many cutting-edge applications of graph theory, such as traffic networks, navigable networks and optimal routing for emergency response, and graph-theoretic approaches to molecular epidemiology.
+
+What is graph model used for?
+
+In computer science, graph models are often used in database management systems and data analysis tools. Graph databases are designed to store and manage large amounts of data using graph models, meaning that querying and analysing relationships between entities can be done efficiently.
