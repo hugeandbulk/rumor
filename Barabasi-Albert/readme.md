@@ -21,3 +21,7 @@ One way to generate scale-free networks is using a preferential attachment algor
 Why is it called scale-free?
 
 It has been found that most scale-free networks have exponents between 2 and 3. Thus, they lack a characteristic degree or scale, and therefore their name.
+
+What is scale-free property?
+
+Networks whose degree distribution follows a Power Law are said to be scale-free networks. • The power law degree distribution can be defined in both discrete and continuous formalisms. – The scale-free property is independent of the formalism used to describe the degree distribution.
