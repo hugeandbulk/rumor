@@ -29,3 +29,15 @@ Networks whose degree distribution follows a Power Law are said to be scale-free
 What is meant by scale free network?
 
 A Scale Free Network is one in which the distribution of links to nodes follows a power law. The power law means that the vast majority of nodes have very few connections, while a few important nodes (we call them Hubs) have a huge number of connections.
+
+What is the girth of a graph?
+
+In graph theory, the girth of an undirected graph is the length of a shortest cycle contained in the graph. If the graph does not contain any cycles (that is, it is a forest), its girth is defined to be infinity.
+
+What is the density of a graph?
+
+Graph density represents the ratio between the edges present in a graph and the maximum number of edges that the graph can contain. Conceptually, it provides an idea of how dense a graph is in terms of edge connectivity. It's particularly useful when we have a vast network and want to add new edges to the network.
+
+What is scale-free vs random network?
+
+In a random network – hubs are forbidden (most nodes have comparable degrees); In a scale-free network, hubs occur naturally (are expected to occur). a Gaussian distribution) the degree of a randomly chosen node will be in the vicinity of <k>.
