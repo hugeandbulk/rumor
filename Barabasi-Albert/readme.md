@@ -61,3 +61,7 @@ What is on the properties of small world network models?
 Properties of small-world networks
 
 Small-world networks tend to contain cliques, and near-cliques, meaning sub-networks which have connections between almost any two nodes within them. This follows from the defining property of a high clustering coefficient.
+
+What is the hidden layer in a neural network?
+
+In neural networks, a hidden layer is located between the input and output of the algorithm, in which the function applies weights to the inputs and directs them through an activation function as the output. In short, the hidden layers perform nonlinear transformations of the inputs entered into the network.
