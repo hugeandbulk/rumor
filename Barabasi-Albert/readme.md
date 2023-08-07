@@ -41,3 +41,23 @@ Graph density represents the ratio between the edges present in a graph and the 
 What is scale-free vs random network?
 
 In a random network – hubs are forbidden (most nodes have comparable degrees); In a scale-free network, hubs occur naturally (are expected to occur). a Gaussian distribution) the degree of a randomly chosen node will be in the vicinity of <k>.
+
+Why is scale so important?
+
+Scales teach you basic music theory.
+
+Understanding scales will help you learn the degrees of the scale, the circle of fifths, intervals, chords, and much more. You'll have an understanding of how different keys are related to each other.
+
+What is weight of a network?
+
+Weight is the parameter within a neural network that transforms input data within the network's hidden layers. A neural network is a series of nodes, or neurons. Within each node is a set of inputs, weight, and a bias value.
+
+What is scale-free dynamics?
+
+Scale-free dynamics of neocortex are characterized by hierarchical self-similarities of patterns of synaptic connectivity and spatiotemporal neural activity, seen in power-law distributions of structural and functional parameters and in rapid state transitions between levels of the hierarchy.
+
+What is on the properties of small world network models?
+
+Properties of small-world networks
+
+Small-world networks tend to contain cliques, and near-cliques, meaning sub-networks which have connections between almost any two nodes within them. This follows from the defining property of a high clustering coefficient.
