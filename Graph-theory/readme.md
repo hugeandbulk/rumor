@@ -4,3 +4,7 @@ In mathematics, graph theory is the study of graphs, which are mathematical stru
 What is a graph theory?
 
 A graph theory is a study of graphs in discrete mathematics. The graphs here are represented by vertices (V) and edges (E). A graph here is symbolised as G(V, E).
+
+What is a finite graph?
+
+A graph that has finite number of vertices and edges is called finite graph.
