@@ -13,3 +13,7 @@ What is the diameter of a network?
 Diameter of a network
 
 It is the shortest distance between the two most distant nodes in the network. In other words, once the shortest path length from every node to all other nodes is calculated, the diameter is the longest of all the calculated path lengths.
+
+How do you generate a scale-free network?
+
+One way to generate scale-free networks is using a preferential attachment algorithm. If you add new nodes to a network and preferentially attach them to the nodes with high degrees, the “rich get richer” and you end up with hubs of very high degree.
