@@ -18,9 +18,7 @@ Actions:
 
 § engine officer name : **hexadecimal**
 
-"I am computer generated hexbot. 
-- he bot
-- she bot
+_**"I am computer generated hexbot (he bot / she bot)"**_.
 
 _What is the meaning of Confutate_?
 
