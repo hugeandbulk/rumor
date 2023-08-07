@@ -25,3 +25,7 @@ It has been found that most scale-free networks have exponents between 2 and 3. 
 What is scale-free property?
 
 Networks whose degree distribution follows a Power Law are said to be scale-free networks. • The power law degree distribution can be defined in both discrete and continuous formalisms. – The scale-free property is independent of the formalism used to describe the degree distribution.
+
+What is meant by scale free network?
+
+A Scale Free Network is one in which the distribution of links to nodes follows a power law. The power law means that the vast majority of nodes have very few connections, while a few important nodes (we call them Hubs) have a huge number of connections.
