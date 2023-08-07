@@ -17,3 +17,7 @@ It is the shortest distance between the two most distant nodes in the network. I
 How do you generate a scale-free network?
 
 One way to generate scale-free networks is using a preferential attachment algorithm. If you add new nodes to a network and preferentially attach them to the nodes with high degrees, the “rich get richer” and you end up with hubs of very high degree.
+
+Why is it called scale-free?
+
+It has been found that most scale-free networks have exponents between 2 and 3. Thus, they lack a characteristic degree or scale, and therefore their name.
