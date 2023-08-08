@@ -20,6 +20,11 @@ Actions:
 
 _**"I am computer generated hexbot (he bot / she bot)"**_.
 
+
+Font, IBM Plex
+
+
+
 _What is the meaning of Confutate_?
 
 _A confutation is the act of refuting someone's point forcefully. Accused criminals must offer confutation if they hope to be found innocent. If you know the verb confute — which means to overwhelm through an argument — this noun will be a no-brainer: it refers to the act of confuting, or a statement that confutes_.
