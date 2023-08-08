@@ -13,6 +13,10 @@ Is Alexa a bot?
 
 A critical difference is that a chatbot is server or company-oriented, while virtual assistants like Alexa, Cortana, or Siri are user-oriented.
 
+Who is the first CEO robot?
+
+With this, 'Ms. Tang Yu' - an AI-powered virtual humanoid robot has become the world's first robot to chair an executive position.
+
 -----------------------------------
 
 § engine officer name : **hexadecimal**
