@@ -8,3 +8,5 @@ A graph theory is a study of graphs in discrete mathematics. The graphs here are
 What is a finite graph?
 
 A graph that has finite number of vertices and edges is called finite graph.
+
+-----------------------------------
