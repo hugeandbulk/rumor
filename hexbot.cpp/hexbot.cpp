@@ -22,6 +22,7 @@
 #include <iostream>
 int main() {
     // Write C++ code here. 
-    std::cout << "Hello world, I am hexbot!";
+    std::cout << "Hello world!";
+    std::cout << "I am hexbot!";
     return 0;
 }
