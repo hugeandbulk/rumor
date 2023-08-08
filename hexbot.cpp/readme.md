@@ -17,3 +17,4 @@ _**"I am computer generated hexbot (he bot / she bot)"**_.
 - pronunciation — `natural`. (as per your's)
 - news — `system generated`. (as newsbot)
 - gist — `environment`.
+- color — `alternate`.
