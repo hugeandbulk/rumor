@@ -1,4 +1,4 @@
-### {bot} $€¥¢©®
+### {bot}
 
 What is the full meaning of bot?
 
