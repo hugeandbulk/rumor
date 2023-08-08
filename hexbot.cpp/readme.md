@@ -25,3 +25,8 @@ _**"I am computer generated hexbot (he bot / she bot)"**_.
 - news — `system generated`. (as newsbot)
 - gist — `environment`.
 - color — `alternate`.
+
+explained —
+daily —
+financial —
+emotional —
