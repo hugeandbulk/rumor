@@ -1,4 +1,5 @@
 ### {bot}
+an autonomous program on the internet or another network that can interact with systems or users.
 
 What is the full meaning of bot?
 
@@ -7,6 +8,12 @@ A **bot** -- short for robot and also called an internet bot -- is a computer pr
 Why is it called bot?
 
 A 'bot' – short for robot – is a software program that performs automated, repetitive, pre-defined tasks. Bots typically imitate or replace human user behavior. Because they are automated, they operate much faster than human users.
+
+Is Alexa a bot?
+
+A critical difference is that a chatbot is server or company-oriented, while virtual assistants like Alexa, Cortana, or Siri are user-oriented.
+
+-----------------------------------
 
 § engine officer name : **hexadecimal**
 
