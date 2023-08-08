@@ -4,4 +4,4 @@ _**"I am computer generated hexbot (he bot / she bot)"**_.
 
 - nature — `system`.
 - grammar — `natural`.
-- pronunciation — `_natural_`. (as per your's)
+- pronunciation — `natural`. (as per your's)
