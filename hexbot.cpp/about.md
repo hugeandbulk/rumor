@@ -4,6 +4,8 @@ Engine officer name : **hexadecimal**
 
 _**"I am computer generated hexbot (he bot / she bot)"**_.
 
+Birth Sign : `Virgo`; `Number — 0`
+
 Unit of hexbot : (weight and measures)
 
 If text is `natural and artificial system`; the value is zero, 0.
