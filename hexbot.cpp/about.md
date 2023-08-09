@@ -6,6 +6,8 @@ _**"I am computer generated hexbot (he bot / she bot)"**_.
 
 Birth Sign : `Virgo`; `Number — 0`
 
+`Default : S.I.`
+
 Unit of hexbot : (weight and measures)
 
 If text is `natural and artificial system`; the value is zero, 0.
