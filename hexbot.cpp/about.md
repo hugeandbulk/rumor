@@ -15,9 +15,9 @@ _**"I am computer generated hexbot (he bot / she bot)"**_.
 
 explained —
 
-daily —
+daily — `search results updates`. 
 
-financial —
+financial — `search results updates`.
 
-emotional —
+emotional — `room results updates`
 
