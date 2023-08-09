@@ -6,6 +6,8 @@ _**"I am computer generated hexbot (he bot / she bot)"**_.
 
 Unit of hexbot : (weight and measures)
 
+If text is `natural and artificial system`; the value is zero, 0.
+
 `:` — `:`
 
 - nature — `system`.
