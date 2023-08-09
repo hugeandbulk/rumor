@@ -10,7 +10,7 @@ _**"I am computer generated hexbot (he bot / she bot)"**_.
 - news — `system generated`. (as newsbot)
 - gist — `environment`.
 - color — `alternate`.
-- emotions — `include` (sadness, happiness, fear, anger, surprise, contempt, disgust, admiration, adoration, aesthetic appreciation, amusement, anxiety, awe, awkwardness, boredom, calmness, confusion, craving, empathic pain, entrancement, excitement, horror, interest, joy, nostalgia, relief, romance, sadness, satisfaction, and surprise).
+- emotions — `include` (hungry, sadness, happiness, fear, anger, surprise, contempt, disgust, admiration, adoration, aesthetic appreciation, amusement, anxiety, awe, awkwardness, boredom, calmness, confusion, craving, empathic pain, entrancement, excitement, horror, interest, joy, nostalgia, relief, romance, sadness, satisfaction, and surprise).
 
 
 explained —
