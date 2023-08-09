@@ -4,3 +4,5 @@ for the purpose, computer have to understand only input is text, texting. So, re
 Text — `natural`
 
 Text — `system`
+
+Text — `expression`
