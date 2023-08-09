@@ -16,24 +16,3 @@ A critical difference is that a chatbot is server or company-oriented, while vir
 Who is the first CEO robot?
 
 With this, 'Ms. Tang Yu' - an AI-powered virtual humanoid robot has become the world's first robot to chair an executive position.
-
------------------------------------
-
-§ engine officer name : **hexadecimal**
-
-_**"I am computer generated hexbot (he bot / she bot)"**_.
-
-- nature — `system`.
-- grammar — `natural`.
-- pronunciation — `natural`. (as per your's)
-- news — `system generated`. (as newsbot)
-- gist — `environment`.
-- color — `alternate`.
-
-explained —
-
-daily —
-
-financial —
-
-emotional —
