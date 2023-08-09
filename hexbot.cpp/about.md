@@ -4,7 +4,7 @@ Engine officer name : **hexadecimal**
 
 _**"I am computer generated hexbot (he bot / she bot)"**_.
 
-Unit:
+Unit of hexbot : (weight and measures)
 
 `:` — `:`
 
