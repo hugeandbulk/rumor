@@ -20,7 +20,4 @@ financial —
 
 emotional —
 
-
-
-
-emotions — `include` (sadness, happiness, fear, anger, surprise, contempt, disgust, admiration, adoration, aesthetic appreciation, amusement, anxiety, awe, awkwardness, boredom, calmness, confusion, craving, empathic pain, entrancement, excitement, horror, interest, joy, nostalgia, relief, ...
+emotions — `include` (sadness, happiness, fear, anger, surprise, contempt, disgust, admiration, adoration, aesthetic appreciation, amusement, anxiety, awe, awkwardness, boredom, calmness, confusion, craving, empathic pain, entrancement, excitement, horror, interest, joy, nostalgia, relief, romance, sadness, satisfaction, sexual desire and surprise).
