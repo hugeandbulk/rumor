@@ -17,3 +17,4 @@ _**"I am computer generated hexbot (he bot / she bot)"**_.
 - emotional — `room results updates`.
 - religious — `yes and updates`.
 - factual — `yes and updates`.
+- weighing — `text and updates`.
