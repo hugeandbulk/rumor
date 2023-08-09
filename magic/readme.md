@@ -7,6 +7,6 @@ Text — `system`
 
 Text — `expression`, `>>` genie.
 
-Unit:
+Unit of Text: (weight and measures)
 
 `:` — `:`
