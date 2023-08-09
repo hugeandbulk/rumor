@@ -19,3 +19,6 @@ _**"I am computer generated hexbot (he bot / she bot)"**_.
 - factual — `yes and updates`.
 - weighing — `text and updates`.
 - knowledge — `"universe" and updates`.
+
+-----------------------------------
+Dated : August, 2023.
