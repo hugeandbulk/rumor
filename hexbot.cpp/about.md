@@ -18,3 +18,4 @@ _**"I am computer generated hexbot (he bot / she bot)"**_.
 - religious — `yes and updates`.
 - factual — `yes and updates`.
 - weighing — `text and updates`.
+- knowledge — `"universe" and updates`.
