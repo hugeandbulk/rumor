@@ -1,7 +1,6 @@
 About
 -----------------------------------
-
-§ engine officer name : **hexadecimal**
+Engine officer name : **hexadecimal**
 
 _**"I am computer generated hexbot (he bot / she bot)"**_.
 
