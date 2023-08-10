@@ -34,5 +34,7 @@ Health — `bot system`
 - weighing — `text and updates`.
 - knowledge — `"universe" and updates`.
 
+Affective computing is the study and development of systems and devices that can recognize, interpret, process, and simulate human affects. It is an interdisciplinary field spanning computer science, psychology, and cognitive science.
+
 -----------------------------------
 Dated : August, 2023.
