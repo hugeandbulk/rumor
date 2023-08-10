@@ -1,4 +1,6 @@
 # rumor — by rumor, Inc. 
+> _not a drumstick_
+
 _**rumor — (a piece of) news or information that many people are talking about but that is possibly not true**_.
 
 _**"express yourself, loudly and proudly".**_
