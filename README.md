@@ -3,6 +3,8 @@ _**rumor — (a piece of) news or information that many people are talking about
 
 _**"express yourself, loudly and proudly".**_
 
+**EIS — Bay**
+
 ) : verb
 
 verb: rumor
