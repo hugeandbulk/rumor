@@ -16,3 +16,7 @@ A critical difference is that a chatbot is server or company-oriented, while vir
 Who is the first CEO robot?
 
 With this, 'Ms. Tang Yu' - an AI-powered virtual humanoid robot has become the world's first robot to chair an executive position.
+
+How many bytes in 1 hex?
+
+Each Hexadecimal character represents 4 bits (0 - 15 decimal) which is called a nibble (a small byte - honest!). A byte (or octet) is 8 bits so is always represented by 2 Hex characters in the range 00 to FF.
