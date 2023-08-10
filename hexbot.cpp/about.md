@@ -4,6 +4,8 @@ Engine officer name : Designation : **hexadecimal**
 
 _**"I am computer generated hexbot (he bot / she bot)"**_.
 
+Library : `botlib`
+
 Birth Sign : `Virgo`; `Number — 0`
 
 `Default : S.I.`
