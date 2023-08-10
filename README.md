@@ -3,7 +3,7 @@
 
 _**rumor — (a piece of) news or information that many people are talking about but that is possibly not true**_.
 
-_**"express yourself, loudly and proudly".**_
+`bot saying` — _**"express yourself, loudly and proudly".**_
 
 **EIS — Bay**
 
