@@ -3,4 +3,5 @@ rumor
 Cluster of Text, a database.
 (CoTs)
 —
-em text and texting.
+em of text and texting.
+em graph of Text.
