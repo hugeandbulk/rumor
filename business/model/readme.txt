@@ -18,3 +18,4 @@ Mine insights in unstructured text using NLP—no machine-learning expertise req
 
 Text Analysis is about parsing texts in order to extract machine-readable facts from them. The purpose of Text Analysis is to create structured data out of free text content. The process can be thought of as slicing and dicing heaps of unstructured, heterogeneous documents into easy-to-manage and interpret data pieces. Text Analysis is close to other terms like Text Mining, Text Analytics and Information Extraction.
 
+Text analytics describes a set of linguistic, statistical, and machine learning techniques that model and structure the information content of textual sources for business intelligence, exploratory data analysis, research, or investigation.
