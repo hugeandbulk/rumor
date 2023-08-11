@@ -6,3 +6,9 @@ entry
 
 — nature — innocent.
 
+bot commands:—
+
+@hello;
+@help;
+@dispute;
+
