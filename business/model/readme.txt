@@ -6,3 +6,4 @@ Cluster of Text, a database.
 em of text and texting.
 em graph of Text.
 result of the em computing.
+User vs. User
