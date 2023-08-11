@@ -1,5 +1,5 @@
 ## rumor — `rumor, Inc.` 
-> _not a drumstick_
+> _not a drumstick._
 
 _**rumor — (a piece of) news or information that many people are talking about but that is possibly not true**_.
 
