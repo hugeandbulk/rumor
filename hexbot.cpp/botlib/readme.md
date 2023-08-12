@@ -6,10 +6,10 @@ Kumar dot `(.)` file
 
 @/5;
 
-where @ is rule, 
+where @ is rule, [root directory] 
 
-/ is directory, 
+/ is directory created and locked, 
 
-\ is directory, 
+\ is directory unlocked, 
 
 5 is many (n)
