@@ -4,7 +4,20 @@ Engine officer name : Designation : **hexadecimal**
 
 _**"I am computer generated hexbot (he bot / she bot)"**_.
 
+-----------------------------------
+
 Library : `botlib`
+
+SQL : `.prop`
+
+rumor : `.rit` — rumor in text, file format.
+
+-----------------------------------
+
+
+
+
+
 
 Birth Sign : `Virgo`; `Number — 0`
 
