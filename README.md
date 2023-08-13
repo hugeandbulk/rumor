@@ -7,6 +7,9 @@ _**rumor — (a piece of) news or information that many people are talking about
 
 **EIS — Bay**
 
+Danish: miljø (environment) 
+
+
 ) : verb
 
 verb: rumor
