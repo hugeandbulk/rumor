@@ -1,6 +1,8 @@
 ## rumor — `rumor, Inc.` 
 > _not a drumstick._
 
+> 08th August, 2023.
+
 _**rumor — (a piece of) news or information that many people are talking about but that is possibly not true**_.
 
 `bot saying` — _**"express yourself, loudly and proudly".**_
