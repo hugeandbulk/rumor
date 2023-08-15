@@ -24,7 +24,7 @@ Actions:
 - `confute ();`
 - `refute ();`
 - `erroneous ();`
-- `**repute ();**`
+- **`repute ();`**
 
 § engine officer name : **hexadecimal**
 
