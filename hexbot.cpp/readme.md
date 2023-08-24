@@ -1,3 +1,5 @@
+This is the first bot, named `hexbot` invented by Infinity and Prabhat Kumar.
+
 ### {bot}
 an autonomous program on the internet or another network that can interact with systems or users.
 
